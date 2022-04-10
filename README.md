@@ -49,59 +49,59 @@ Todo: find matching emojis
 
 Default topics and categories expected to be outlined here:
 
-Airports and airfields
-Beaches
-Bridges
-Buildings and industrial facilities
-Cemeteries, mausoleums, and crematoria
-Culture and heritage sites (Landmarks, Monuments, Museums, Libraries, Galleries)
-Ecological sites (Protected Areas, Research Facilities, Game Parks, Zoos, Aquariums)
-Emergency services and other health care facilities
-Entertainment and Leisure (Campsites, Casinos, Sporting arenas and events)
-Gas stations and fuel facilities
-Government Offices
-Hospitals
-Hotels and accommodation
-Infrastructure (Light houses, substations)
-Law enforcement agencies
-Other
-Parking facilities
-Ports and maritime infrastructure
-Religious sites and buildings
-Restaurants and bars
-Schools and educational institutions
-Shops, malls, and markets
-Tourist Attractions
-Transportation
-Vegetation (Alien)
-Vegetation (Endemic)
-Vehicles, craft, and vessels
+-  Airplane Airports and airfields
+-  Beaches
+-  Bridges
+-  Buildings and industrial facilities
+-  Cemeteries, mausoleums, and crematoria
+-  Culture and heritage sites (Landmarks, Monuments, Museums, Libraries, Galleries)
+-  Ecological sites (Protected Areas, Research Facilities, Game Parks, Zoos, Aquariums)
+-  Emergency services and other health care facilities
+-  Entertainment and Leisure (Campsites, Casinos, Sporting arenas and events)
+-  Gas stations and fuel facilities
+-  Government Offices
+-  Hospitals
+-  Hotels and accommodation
+-  Infrastructure (Light houses, substations)
+-  Law enforcement agencies
+-  Parking facilities
+-  Ports and maritime infrastructure
+-  Religious sites and buildings
+-  Restaurants and bars
+-  Schools and educational institutions
+-  Shops, malls, and markets
+-  Tourist Attractions
+-  Transportation
+-  Vegetation (Alien)
+-  Vegetation (Endemic)
+-  Vehicles, craft, and vessels
+-  Other
 
 ### Disasters
 
-Avalanche
-Drought
-Earthquake
-Flood
-Flashflood
-Fog
-Heatwave
-Impact event
-Landslide
-Limnic eruption
-Mudslide
-Sinkhole/ Subsidence
-Tsunami
-Volcanic eruption
-Wildfire
-Storms (General)
-Blizzard/ Snowstorm/ Icestorm
-Electrical storm/ Thunderstorm
-Hailstorm
-Tornado
-Windstorm/ Hurricane/ Tropical Cyclone
-Nuclear disaster
-Infrastructure failure
-Terrorist attack
-Civil unrest
-Act of war
+-  Avalanche
+-  Drought
+-  Earthquake
+-  Flood
+-  Flashflood
+-  Fog
+-  Heatwave
+-  Impact event
+-  Landslide
+-  Limnic eruption
+-  Mudslide
+-  Sinkhole/ Subsidence
+-  Tsunami
+-  Volcanic eruption
+-  Wildfire
+-  Storms (General)
+-  Blizzard/ Snowstorm/ Icestorm
+-  Electrical storm/ Thunderstorm
+-  Hailstorm
+-  Tornado
+-  Windstorm/ Hurricane/ Tropical Cyclone
+-  Nuclear disaster
+-  Infrastructure failure
+-  Terrorist attack
+-  Civil unrest
+-  Act of war
