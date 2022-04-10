@@ -98,7 +98,7 @@ Storms (General)
 Blizzard/ Snowstorm/ Icestorm
 Electrical storm/ Thunderstorm
 Hailstorm
-Tornadoe
+Tornado
 Windstorm/ Hurricane/ Tropical Cyclone
 Nuclear disaster
 Infrastructure failure
