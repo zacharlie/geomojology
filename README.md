@@ -64,6 +64,7 @@ Default topics and categories expected to be outlined here:
 - 🏠 Hotels and accommodation
 - 🏗️ Infrastructure (Light houses, substations)
 - 🚔 Law enforcement agencies
+- ⛰️ Natural features and barriers (Mountains, hills, valleys)
 - 🅿️ Parking facilities
 - ⚓ Ports and maritime infrastructure
 - 🛐 Religious sites and buildings
@@ -79,29 +80,29 @@ Default topics and categories expected to be outlined here:
 
 ### Disasters
 
--  Avalanche
--  Drought
--  Earthquake
--  Flood
--  Flashflood
--  Fog
--  Heatwave
--  Impact event
--  Landslide
--  Limnic eruption
--  Mudslide
--  Sinkhole/ Subsidence
--  Tsunami
--  Volcanic eruption
--  Wildfire
--  Storms (General)
--  Blizzard/ Snowstorm/ Icestorm
--  Electrical storm/ Thunderstorm
--  Hailstorm
--  Tornado
--  Windstorm/ Hurricane/ Tropical Cyclone
--  Nuclear disaster
--  Infrastructure failure
--  Terrorist attack
--  Civil unrest
--  Act of war
+- 🧊 Avalanche
+- 🏜️ Drought
+- 🌄 Earthquake
+- 🪣 Flood
+- ⛆ Flashflood
+- 🌫️ Fog
+- ☀️ Heatwave
+- ☄️ Impact event
+- 🪨 Landslide
+- ⛲ Limnic eruption
+- 🗻 Mudslide
+- 🕳️ Sinkhole/ Subsidence
+- 🌊 Tsunami
+- 🌋 Volcanic eruption
+- 🔥 Wildfire
+- ⛈️ Storms (General)
+- ❄️ Blizzard/ Snowstorm/ Icestorm
+- 🌩️ Electrical storm/ Thunderstorm
+- 🌧️ Hailstorm
+- 🌪️ Tornado
+- 🌀 Windstorm/ Hurricane/ Tropical Cyclone
+- ☢️ Nuclear disaster
+- 💥 Infrastructure failure
+- 💣 Terrorist attack
+- 🔱 Civil unrest
+- 🪖 Act of war
