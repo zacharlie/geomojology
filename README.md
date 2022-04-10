@@ -77,7 +77,7 @@ Vegetation (Alien)
 Vegetation (Endemic)
 Vehicles, craft, and vessels
 
-### Natural Disasters
+### Disasters
 
 Avalanche
 Drought
@@ -100,3 +100,8 @@ Electrical storm/ Thunderstorm
 Hailstorm
 Tornadoe
 Windstorm/ Hurricane/ Tropical Cyclone
+Nuclear disaster
+Infrastructure failure
+Terrorist attack
+Civil unrest
+Act of war
