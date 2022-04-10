@@ -76,3 +76,27 @@ Transportation
 Vegetation (Alien)
 Vegetation (Endemic)
 Vehicles, craft, and vessels
+
+### Natural Disasters
+
+Avalanche
+Drought
+Earthquake
+Flood
+Flashflood
+Fog
+Heatwave
+Impact event
+Landslide
+Limnic eruption
+Mudslide
+Sinkhole/ Subsidence
+Tsunami
+Volcanic eruption
+Wildfire
+Storms (General)
+Blizzard/ Snowstorm/ Icestorm
+Electrical storm/ Thunderstorm
+Hailstorm
+Tornadoe
+Windstorm/ Hurricane/ Tropical Cyclone
