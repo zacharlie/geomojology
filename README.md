@@ -38,3 +38,41 @@ Geomojology alleviates these issues by:
 - Emoji are rendered in the native context of the device, browser, or application, rather than a generic font library which renders the same across different platforms
 - Emoji are inclusive and not language specific
 - No external font libraries or package dependencies are required for effective symbology, regardless of platform
+
+## Collections
+
+Legends and maps are often context specific. It makes sense to have a number of standard collections which perform this function across a variety of contexts.
+
+Todo: find matching emojis
+
+### General
+
+Default topics and categories expected to be outlined here:
+
+Airports and airfields
+Beaches
+Bridges
+Buildings and industrial facilities
+Cemeteries, mausoleums, and crematoria
+Culture and heritage sites (Landmarks, Monuments, Museums, Libraries, Galleries)
+Ecological sites (Protected Areas, Research Facilities, Game Parks, Zoos, Aquariums)
+Emergency services and other health care facilities
+Entertainment and Leisure (Campsites, Casinos, Sporting arenas and events)
+Gas stations and fuel facilities
+Government Offices
+Hospitals
+Hotels and accommodation
+Infrastructure (Light houses, substations)
+Law enforcement agencies
+Other
+Parking facilities
+Ports and maritime infrastructure
+Religious sites and buildings
+Restaurants and bars
+Schools and educational institutions
+Shops, malls, and markets
+Tourist Attractions
+Transportation
+Vegetation (Alien)
+Vegetation (Endemic)
+Vehicles, craft, and vessels
